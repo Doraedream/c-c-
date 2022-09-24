@@ -1,0 +1,6 @@
+﻿  contact.c
+D:\Visual Studio程序库\c-c-\通讯录\通讯录\contact.c(31,32): warning C4028: 形参 1 与声明不同
+D:\Visual Studio程序库\c-c-\通讯录\通讯录\contact.c(126,2): warning C4013: “qsort”未定义；假设外部返回 int
+  test.c
+  正在生成代码...
+  通讯录.vcxproj -> D:\Visual Studio程序库\c-c-\通讯录\x64\Debug\通讯录.exe
